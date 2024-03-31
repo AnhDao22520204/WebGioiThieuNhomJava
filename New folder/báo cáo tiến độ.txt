@@ -1,0 +1,7 @@
+1. WEB giới thiệu nhóm
+2. Giao diện
+3. Các tính năng đã làm
+4. Tiến độ dự án
+5. Phân công công việc
+
+// Trình bày và show kết quả, Không cần làm slide
