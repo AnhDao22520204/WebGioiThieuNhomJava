@@ -48,6 +48,25 @@ body {
     width: 100%;
 }
 
+/*---------TIMELINE section---------*/
+#timeline {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+#timeline .col-md-6 {
+    padding: 20px 10px;
+}
+
+#timeline h3 {
+    margin: 20px auto;
+}
+
+#timeline .img-fluid {
+    width: 300px;
+    margin-top: 20px;
+}
+
 /*---------ABOUT US section---------*/
 #aboutus {
     padding: 80px 0;
@@ -55,7 +74,7 @@ body {
 
 /*CHỈNH LẠI KÍCH THƯỚC AVATAR*/
 .aboutus-img {
-    width: 100px;
+    width: 180px;
     margin-top: 20px;
 }
 
@@ -99,6 +118,7 @@ body {
     transform: translateY(8px);
 }
 
+/*---------CONTACT section---------*/
 #contact {
     background-image: linear-gradient(to bottom right, #5B4C97, #1C3CA1);
     color: #fff;
@@ -127,6 +147,18 @@ body {
 .contact-box {
     padding-left: 60px;
 }
+
+hr {
+    background-color: #fff;
+}
+
+.copyright {
+    margin-bottom: 0;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+/*-----------------*/
 
 .about-title {
     font-size: 40px;
